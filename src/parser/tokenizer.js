@@ -72,7 +72,8 @@ Tokenizer.prototype.tokenize = function () {
         const [tokenValue] = match;
         let token;
 
-        // Use a switch statement to determine the token type
+        // Use a switch statement to determine 
+        // the token type.
         switch (tokenValue) {
             case '+':
             case '-':
