@@ -1,0 +1,17 @@
+{
+  "name": "calcurio",
+  "version": "0.1.0",
+  "description": "Wilko Calculator Emulator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "calcurio",
+    "wilko",
+    "calc",
+    "calculator"
+  ],
+  "author": "Nnamdi Michael Okpala",
+  "license": "ISC"
+}
